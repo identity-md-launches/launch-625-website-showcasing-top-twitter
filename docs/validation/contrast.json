@@ -1,0 +1,32 @@
+[
+  {
+    "role": "Page text",
+    "color": "rgb(240, 241, 232)",
+    "background": "rgb(11, 32, 24)",
+    "ratio": 14.95
+  },
+  {
+    "role": "Card excerpt",
+    "color": "rgb(176, 191, 176)",
+    "background": "rgb(17, 42, 32)",
+    "ratio": 7.94
+  },
+  {
+    "role": "Primary button",
+    "color": "rgb(11, 32, 24)",
+    "background": "rgb(194, 249, 112)",
+    "ratio": 13.84
+  },
+  {
+    "role": "Secondary text",
+    "color": "rgb(176, 191, 176)",
+    "background": "rgb(17, 42, 32)",
+    "ratio": 7.94
+  },
+  {
+    "role": "Focus ring",
+    "color": "rgb(240, 241, 232)",
+    "background": "rgb(11, 32, 24)",
+    "ratio": 14.95
+  }
+]

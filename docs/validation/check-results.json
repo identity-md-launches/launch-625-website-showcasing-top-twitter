@@ -1,0 +1,25 @@
+{
+  "checkedAt": "2026-10-02T21:28:35.205Z",
+  "checks": [
+    "Subpath export loads seven posts, local font and playing video.",
+    "All seven supplied X destinations match the curated data.",
+    "Video pause and play controls work.",
+    "Article and post filters return 4 and 3 reads.",
+    "Search, no-result state and reset recover the full collection.",
+    "Newest, oldest and curated sorting work.",
+    "Save, reload persistence, saved-only filter, unsave and empty recovery work.",
+    "Reduced motion disables video autoplay.",
+    "Keyboard skip link, Enter/Space filter activation and visible focus captured.",
+    "Computed solid text/background and focus pairs meet their contrast thresholds.",
+    "Axe WCAG scan: 0 violations, 27 passing rules.",
+    "No horizontal overflow at 1440px; full-page screenshot captured.",
+    "No horizontal overflow at 768px; full-page screenshot captured.",
+    "No horizontal overflow at 390px; full-page screenshot captured.",
+    "No horizontal overflow at 320px; full-page screenshot captured.",
+    "200% root text enlargement: no horizontal page overflow (not browser-native zoom).",
+    "Video failure leaves the poster and collection usable.",
+    "Final export: no console errors or failed resources."
+  ],
+  "errors": [],
+  "failures": []
+}
